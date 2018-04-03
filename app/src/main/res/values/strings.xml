@@ -2,4 +2,8 @@
     <string name="app_name">Drool Feed</string>
 
     <string name="menu_filter">Filter</string>
+
+    <!-- ChannelType Display Names -->
+    <string name="bonAppetit">Bon Appetit</string>
+    <string name="cookbooks101">101 Cookbooks</string>
 </resources>
